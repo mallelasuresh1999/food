@@ -1,0 +1,79 @@
+.footer {
+  width: 100%;
+  height: 200px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 10px;
+  margin-top: 10px;
+}
+
+.socialMedia svg {
+  color: rgb(35, 112, 190);
+  margin: 20px;
+  font-size: 70px;
+  cursor: pointer;
+}
+
+.footer p {
+  color: rgb(11, 10, 10);
+  margin:auto;
+  padding: 5px;
+}
+
+.follow-us-section-heading {
+  text-align: center;
+  color: black;
+  font-family: "Roboto";
+  font-size: 35px;
+  font-weight: 700;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.footer-section {
+  background-color: #0d2436;
+}
+
+.footer-section-header{
+  color: white;
+  font-family: "Roboto";
+  font-weight: bold;
+  font-style: italic;
+  font-size: 30px;
+  margin-bottom: 25px;
+
+}
+
+
+.footer-section-text1 {
+  color: #959ead;
+  font-family: "Roboto";
+  font-weight: bold;
+  font-style: oblique;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+
+.footer-section-text {
+  color: #959ead;
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 20px;
+}
+.footer-section-address {
+  color: #959ead;
+  font-family: "Roboto";
+  font-size: 14px;
+}
+
+
+.food-munch-logo-footer{
+
+  width: 150px;
+  height: 120px;
+}

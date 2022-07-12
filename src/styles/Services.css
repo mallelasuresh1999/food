@@ -1,0 +1,88 @@
+.services-section {
+    background-color: #a3bee7;
+    text-align: center;
+  }
+  .services-style{
+    color: #c1aee4;
+    font-style: italic;
+    font-weight: 600;
+    text-decoration:underline;
+  }
+  .services-start{
+    background-color: #323f4b;
+  }
+  .first-header-section{
+    padding: 5px;
+  }
+  .second-section{
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+  .third-section{
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+
+  }
+  .fourth-section{
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+ 
+  .services-section-heading {
+    color: #1cc3d2;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: 700;
+  }
+  .services-section-description {
+    color: #a9b1bd;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-style: oblique;
+  }
+  .services-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+    background-image: url("https://as2.ftcdn.net/v2/jpg/03/85/96/43/1000_F_385964302_BewSlSZeoTpDwIWKqC5z2IikI8jStGlu.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .services-card-image {
+    width: 200px;
+    height: 160px;
+    padding: 10px;
+    
+  }
+  .services-card-image2 {
+    width: 190px;
+    height: 150px;
+    padding: 10px;
+    
+  }
+  .services-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 38px;
+    font-weight: bold;
+
+  }
+  .services-card-description {
+    color: black;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight:400;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .offers {
+    color: #089598;
+    font-style: italic;
+    font-weight: 600;
+  }

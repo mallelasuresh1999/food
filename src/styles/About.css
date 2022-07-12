@@ -1,0 +1,62 @@
+.header-tag{
+  color:rgb(188, 11, 82);
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.about {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    background-image: url("https://img.freepik.com/free-vector/gray-abstract-wireframe-background_53876-99911.jpg?t=st=1656943670~exp=1656944270~hmac=14e5f17fea041285f7eb3b66eec3b9ec2ff9e73f27227eb1a61091bfcdcd9b5f&w=996");
+  }
+  
+  .aboutTop {
+    width:100%;
+    height: 500%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50px;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+  
+  .aboutBottom {
+    display: flex;
+    flex-direction: column;
+    height: 55%;
+    align-items: center;
+    margin-top: 30px;
+  }
+  
+  .aboutBottom p {
+    width: 1200px;
+    color: rgb(53, 32, 5);
+    font-size: 18px;
+    font-weight: 500;
+  }
+  
+  .about .aboutBottom h1 {
+    font-weight: 400;
+    font-size: 70px;
+    color: rgb(237, 103, 103);
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    transform: translateY(-40px);
+    
+  }
+
+  
+  
+  .footer-section-text {
+    color: #040810;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 23px;
+    
+  }
+  

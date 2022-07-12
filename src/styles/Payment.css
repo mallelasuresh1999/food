@@ -1,0 +1,30 @@
+.header-payment{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 35px;
+    text-align: center;
+    color:black;
+    text-decoration:underline;
+}
+.payments-main{
+    text-align: center;
+}
+
+.payment-card-img {
+    width: 100px;
+    height: 100px;
+    margin-right: 28px;
+    margin-top: 35px;
+    padding:6px;
+  }
+
+  .payment-desc{
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color:darkslategrey;
+    padding: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }

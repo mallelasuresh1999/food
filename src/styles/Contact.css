@@ -1,0 +1,89 @@
+.contact-section{
+    padding: 5px;
+    margin: auto;
+    display: flex;
+    border-radius: 5px;
+    background-image: url("https://as2.ftcdn.net/v2/jpg/03/85/96/43/1000_F_385964302_BewSlSZeoTpDwIWKqC5z2IikI8jStGlu.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  #contact-form{
+    flex-direction: column;
+      width: auto;
+      height: auto;
+      padding: 30px;
+      text-align: right;
+     
+  }
+  .header-part{
+    font-size: 40px;
+    text-align:center;
+    color: rgb(119, 20, 20);
+    text-decoration:overline;
+    
+  
+  }
+  .column {
+    
+    width: 50%;
+    margin-top: 6px;
+    padding: 20px;
+  }
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  
+    
+    form label {
+      margin-top: 15px;
+      color: black;
+      font-size: 18px;
+    }
+  
+  form button {
+    margin-top: 40px;
+    width: 140px;
+    height: 40px;
+    border: none;
+    background-color: #121619;
+    color: whitesmoke;
+    font-size: 15px;
+    cursor: pointer;
+  }
+  
+  
+  .healthy-food-section {
+    
+    padding: 20px;
+    margin-top: 100px;
+   
+  }
+  
+  .healthy-food-section-heading {
+    color: #041207;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .healthy-food-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .video-tag{
+   
+    border-radius: 5px;
+    font-size: 25px;
+    color:rgb(213, 15, 174)
+    
+  }
+  
+  
+  
